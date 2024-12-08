@@ -1,0 +1,79 @@
+id1:
+    - Amostras controle: SRR28810692, SRR28810693, SRR28810694
+    - Amostras experimento: SRR28810689, SRR28810690, SRR28810691
+    - Genoma de referência: GCA_000143535.4
+
+
+    - genes down: 
+        Records only in Funexpression: 0
+        Records only in Artigo: 171
+        Records in both Funexpression and Artigo: 1713
+
+    - genes up:
+        Records only in Funexpression: 104
+        Records only in Artigo: 0
+        Records in both Funexpression and Artigo: 1800
+
+id2:
+    - Amostras controle: SRR28810692, SRR28810693, SRR28810694
+    - Amostras experimento: SRR28810686, SRR28810687, SRR28810688
+    - Genoma de referência: GCA_000143535.4
+
+
+    - genes down: 
+        Records only in Funexpression: 21
+        Records only in Artigo: 0
+        Records in both Funexpression and Artigo: 1785
+
+    - genes up:
+        Records only in Funexpression: 140
+        Records only in Artigo: 0
+        Records in both Funexpression and Artigo: 1733
+
+
+id3:
+    - Amostras controle: SRR28810689, SRR28810690, SRR28810691
+    - Amostras experimento: SRR28810683, SRR28810684, SRR28810685
+    - Genoma de referência: GCA_000143535.4
+
+
+    - genes down: 
+        Records only in Funexpression: 88
+        Records only in Artigo: 0
+        Records in both Funexpression and Artigo: 2343
+
+    - genes up:
+        Records only in Funexpression: 0
+        Records only in Artigo: 33
+        Records in both Funexpression and Artigo: 2501
+
+id4:
+    - Amostras controle: SRR28810686, SRR28810687, SRR28810688
+    - Amostras experimento: SRR28810683, SRR28810684, SRR28810685
+    - Genoma de referência: GCA_000143535.4
+
+    - genes down: 
+        Records only in Funexpression: 0
+        Records only in Artigo: 150
+        Records in both Funexpression and Artigo: 1806
+
+    - genes up:
+        Records only in Funexpression: 0
+        Records only in Artigo: 152
+        Records in both Funexpression and Artigo: 1895
+
+id5:
+    - Amostras controle: SRR2042782, SRR2042783, SRR2042784
+    - Amostras experimento: SRR2042785, SRR2042786, SRR2042787
+    - Genoma de referência: GCA_000346795.1
+
+    - genes down: 
+        Records only in Funexpression: 28
+        Records only in Artigo: 0
+        Records in both Funexpression and Artigo: 103
+
+    - genes up:
+        Records only in Funexpression: 91
+        Records only in Artigo: 0
+        Records in both Funexpression and Artigo: 121
+
